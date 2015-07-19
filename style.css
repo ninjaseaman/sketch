@@ -1,0 +1,48 @@
+* {
+	margin: 0px;
+	background-color: #FFF;
+}
+
+.center {
+	width: 840px;
+	height: 560px;
+	margin: auto;
+	margin-top: 36px;
+
+}
+
+.container {
+
+	font-size: 11px;
+	line-height: 0px;
+}
+
+.pixel {
+	padding: 5px;
+	border: 1px solid black;
+	margin: 1px 1px 0px 0px;
+	display: inline-block;
+}
+
+.colored_pixel {
+	background-color: rgb(217, 37, 35);
+}
+
+.button {
+	cursor: pointer;
+	text-align: center;
+	width: 48px;
+	height: 24px;
+	border: 1px solid silver;
+	border-radius: 5px;
+	margin: auto;
+	margin-top: 8px;
+	padding-top: 2px;
+
+}
+
+.low_button {
+	position: absolute;
+	bottom: 250px;
+	left: 49%;
+}
